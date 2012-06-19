@@ -15,6 +15,7 @@ namespace ConsoleApplication1
             if (i % 5 == 0)
                 Console.Write("Buzz");
             Console.WriteLine();
+        }
         public static void fizzBuzz1_100()
         {
             for (int i = 1; i < 101; i++)
